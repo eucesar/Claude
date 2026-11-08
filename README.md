@@ -1,30 +1,29 @@
-# Cesar Iglesias (Cesinha)
+# soc-blue-team
 
-Analista de Cibersegurança Blue Team | SOC | Security Operations
+Repositório das minhas orquestrações de MCP. Aqui ficam salvas todas as orquestrações que eu monto com o Claude (skills, agents e fluxos de MCP) para ficarem versionadas e disponíveis para reuso.
 
-Atuo com defesa cibernética em ambiente de meios de pagamento sob PCI-DSS. Foco em monitoramento de SIEM, análise de logs, detecção e resposta a incidentes, hardening e threat hunting.
+## Objetivo
 
-## Áreas
+Centralizar num só lugar as orquestrações de MCP voltadas para operações de SOC e Blue Team, de forma que possam ser instaladas como plugin e reutilizadas entre sessões.
+
+## Áreas de foco
 
 - Detecção e resposta a ameaças
 - Análise de logs e triagem de alertas
-- Hardening de sistemas
 - Threat hunting
+- Hardening de sistemas
 - Governança e compliance (PCI-DSS, ISO 27002)
 - Segurança em cloud (Azure, AWS, OCI)
 
-## Ferramentas
+## Estrutura
 
-| Categoria | Stack |
-|-----------|-------|
-| SIEM / XDR | Cortex XSIAM, Splunk, Microsoft Sentinel, ELK Stack |
-| Detecção de rede | Suricata, Wireshark, OSSEC |
-| Cloud | Azure, AWS, OCI |
-| Email security | Microsoft Defender for Office 365 |
+```
+.claude-plugin/
+  plugin.json    manifest do plugin
+  icon.png       icone da listagem
+```
 
-## Formação
-
-Sistemas de Informação na FIAP.
+As skills, agents e demais orquestrações de MCP serão adicionadas conforme forem sendo montadas.
 
 ## Contato
 

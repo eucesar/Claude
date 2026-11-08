@@ -1,0 +1,10 @@
+{
+  "name": "soc-blue-team",
+  "version": "0.1.0",
+  "description": "Plugin de apoio a operacoes de SOC e Blue Team: triagem de alertas, analise de logs, threat hunting e documentacao de casos.",
+  "author": {
+    "name": "Cesar Iglesias",
+    "url": "https://github.com/eucesar"
+  },
+  "homepage": "https://github.com/eucesar/Claude"
+}

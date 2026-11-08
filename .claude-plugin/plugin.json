@@ -1,7 +1,7 @@
 {
-  "name": "soc-blue-team",
+  "name": "mcp-sync",
   "version": "0.1.0",
-  "description": "Repositorio das orquestracoes de MCP: skills, agents e fluxos de SOC e Blue Team salvos para reuso.",
+  "description": "Sincronizador pessoal de MCP: orquestracoes e configuracoes de MCP salvas e versionadas para reuso entre maquinas e sessoes.",
   "author": {
     "name": "Cesar Iglesias",
     "url": "https://github.com/eucesar"

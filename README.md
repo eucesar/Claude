@@ -1,19 +1,10 @@
-# soc-blue-team
+# mcp-sync
 
-Repositório das minhas orquestrações de MCP. Aqui ficam salvas todas as orquestrações que eu monto com o Claude (skills, agents e fluxos de MCP) para ficarem versionadas e disponíveis para reuso.
+Sincronizador pessoal de MCP. Aqui ficam salvas e versionadas as minhas orquestrações de MCP, para manter tudo sincronizado e disponível para reuso entre máquinas e sessões.
 
 ## Objetivo
 
-Centralizar num só lugar as orquestrações de MCP voltadas para operações de SOC e Blue Team, de forma que possam ser instaladas como plugin e reutilizadas entre sessões.
-
-## Áreas de foco
-
-- Detecção e resposta a ameaças
-- Análise de logs e triagem de alertas
-- Threat hunting
-- Hardening de sistemas
-- Governança e compliance (PCI-DSS, ISO 27002)
-- Segurança em cloud (Azure, AWS, OCI)
+Centralizar num só lugar as minhas configurações e orquestrações de MCP, de forma que possam ser instaladas como plugin e reaproveitadas em qualquer sessão, sem precisar montar tudo de novo.
 
 ## Estrutura
 
@@ -23,7 +14,7 @@ Centralizar num só lugar as orquestrações de MCP voltadas para operações de
   icon.png       icone da listagem
 ```
 
-As skills, agents e demais orquestrações de MCP serão adicionadas conforme forem sendo montadas.
+As orquestrações de MCP vão sendo adicionadas aqui conforme forem montadas.
 
 ## Contato
 
